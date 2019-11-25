@@ -1,0 +1,7 @@
+{
+  "name": "workshop",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/csatie/workshop.git",
+  "license": "MIT"
+}
